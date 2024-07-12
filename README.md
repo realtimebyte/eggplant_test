@@ -62,7 +62,7 @@ php artisan serve
 
 After run command, check the server running on [http://127.0.0.1:8000]
 
-Test the api by postman easy.
+Test the api by [**Postman**](https://www.postman.com/) tool.
 
 ### 2. Frontend
 
